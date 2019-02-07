@@ -6,4 +6,4 @@ At any time you can always say `help` and Adaptive will send you here.
 
 | Command       | Request Examples | Module |
 | ------------- | ---------------- | ------ |
-| help  |<ul><li>I need help</li><li>help please</li><li>what do you understand?</li></ul>|General|
+| help  |I need help<br>what do you understand?|General|
