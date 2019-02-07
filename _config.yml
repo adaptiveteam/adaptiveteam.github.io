@@ -2,5 +2,4 @@ theme: jekyll-theme-slate
 title: Adaptive Documentation
 description: Adaptive is the platform companies use to transform into a place that manufactures awesome employees
 show_downloads: false
-github:
-  is_project_page: false
+is_project_page: false
