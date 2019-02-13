@@ -7,3 +7,4 @@ At any time you can always say `help` and Adaptive will send you here.
 | Command       | Request Examples | Module |
 | ------------- | ---------------- | ------ |
 | help  |I need help<br>what do you understand?|General|
+| update settings| update settings | UserSettings|
