@@ -8,16 +8,16 @@ Let's get going!
 **Note** - From this point forward, this guide assumes you have worked with your admin team to install Adaptive into your collaboration platform ([Slack installation](https://adaptiveteam.github.io/docs/setup/adaptive-installation)).  
 
 ## Adaptive Communities
-We designed Adaptive to be easy enough for anyone to administer using the same skills you need to work in your collaboration platform. The permission model is built around Adaptive communities which is just a channel to which you have invited Adaptive. When Adaptive shows up it will ask you what kind of community to create and will present you with a dropdown box. Simply make a choice and then invite your Each community grants different permissions to the people you invite.
+We designed Adaptive to be easy enough for anyone to administer with the same skills needed when working in your collaboration platform. The permission model is built around Adaptive communities which is just a channel to which you have invited Adaptive. When Adaptive shows up it will ask you what kind of community to create and will present you with a dropdown box. Simply make a choice and then invite your Each community grants different permissions to the people you invite.
 
 First things first, you will want to create an Adaptive administration channel. This channel is largely for informational purposes and will tell you about how the Adaptive is being configured. It will also receive requests from users wishing to work with Adaptive but who have not been invited to a community. To create the Adaptive admin community, do this this:
- 1. Create a **private** channel named whatever you wish and complies with any company naming conventions
+ 1. Create a **private** channel named whatever you wish and complies with company naming conventions if applicable 
  1. Invite Adaptive (`/invite @adaptive`).
  1. Finally, invite whomever you wish to this channel (`/invite @[user name]`). 
 
 _You can watch [this short video](https://www.youtube.com/watch?v=1G71eX5ZQSI&list=PLRumqby7xu0Pq_XjEBR558C4KxZuvXvOb&index=2) (1:52) on creating the Adaptive administration community._ 
 
-Now, we need to create these remaining communities (_remember, private channels only_):
+Now, we need to create the remaining communities (_remember, private channels only_):
 
 Channel Name|Channel Purpose
 ---|---
