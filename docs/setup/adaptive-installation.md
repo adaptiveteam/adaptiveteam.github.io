@@ -6,7 +6,7 @@ This document outlines the necessary steps to install Adaptive manually into a c
 1. While logged into appropriate Slack account, navigate to [https://api.slack.com/apps](https://api.slack.com/apps)
 2. Here click on `Create New App` as shown below
     - ![Setup Init](images/setup-init.png)
-3. Fill in the relevant details
+3. Fill in the relevant details (please name the bot Adaptive)
     -  ![Setup Details](images/setup-details.png)
 4. Once setup, Slack presents you with the basic details on the app
     - ![Setup Landing](images/app-landing.png)
