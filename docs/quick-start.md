@@ -30,10 +30,10 @@ values| for collaborating on company values
  
  _To learn more about Adaptive communities you can watch this [short video](https://www.youtube.com/watch?v=jd063ELPXpU&list=PLRumqby7xu0Pq_XjEBR558C4KxZuvXvOb&index=3) (3:20)._
  
- ## The Adaptive Dynamic Menu
- Once you have created your channels and invited Adaptive, you will now be able to interact with Adaptive.  Simply navigate to the app in your collaboration platform.  As soon as you navigate to Adaptive, the bot will present you with a menu.
+## Adaptive Dynamic Menu (ADM)
+Once you have created your channels and invited Adaptive, you will now be able to interact with Adaptive.  Simply navigate to the app in your collaboration platform.  As soon as you navigate to Adaptive, the bot will present you with a menu.
  
- Adaptive created this menu for you by running through dozens of health checks.  When you are first setting up Adaptive, there are a lot of health checks that won't pass and so Adaptive will begin nudging you to make corrections.
+Adaptive created this menu especially for you by running through dozens of health checks and determining what _you can do_ to improve the strategic health of the company. When you are first setting up Adaptive, there are a lot of health checks that won't pass and so Adaptive will begin nudging you to make corrections. Just follow the nudges and Adaptive will help you.
  
  _To learn more about the Adaptive Dynamic Menu you can watch [this short video](https://www.youtube.com/watch?v=RgcUkAOVlj4&list=PLRumqby7xu0Pq_XjEBR558C4KxZuvXvOb&index=4)._
 
