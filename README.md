@@ -17,3 +17,6 @@ This is where you can access our user guide that includes overview, how-to's, an
 **6. Coaches** - guidance for those that will be coaches for the team's individual development
 
 **7. All users** - basic guidance and how-to's for all users
+
+Download the user guide by using this link:
+[Adaptive User Guide](Adaptive User Guide.pdf)
